@@ -1,0 +1,10 @@
+.lead {
+    outline: 1px solid palegoldenrod;
+    margin-top: 56px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 148px;
+    margin-right: 148px;
+}

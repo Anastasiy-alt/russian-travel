@@ -1,7 +1,9 @@
 .header {
-    outline: 1px solid palegoldenrod;
-    width: 1184px;
     height: 52px;
     display: flex;
+    margin-top: 28px;
+    margin-left: 48px;
+    margin-right: 48px;
     justify-content: space-between;
+    align-items: flex-end;
 }
