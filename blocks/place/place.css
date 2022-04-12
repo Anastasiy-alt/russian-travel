@@ -1,0 +1,12 @@
+.place {
+    margin-top: 80px;
+    margin-left: 148px;
+    margin-right: 148px;
+    display: grid;
+    grid-template-columns: fit-content(460px) fit-content(484px);
+    gap: 48px 40px;
+}
+
+.place:first-child {
+    margin-top: 0;
+}
