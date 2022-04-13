@@ -7,3 +7,17 @@
     margin-left: 148px;
     margin-right: 148px;
 }
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        margin-right: 48px;
+        margin-left: 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}

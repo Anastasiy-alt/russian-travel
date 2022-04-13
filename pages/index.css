@@ -33,18 +33,220 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
+@import url(../blocks/footer/__nav/footer__nav.css);
+/*@import url(../blocks/);*/
+
+/*@media screen and (max-width: 1024px) {
+    .lead {
+        margin-right: 48px;
+        margin-left: 48px;
+    }
+
+    .lead__subtitle {
+        margin-bottom: 56px;
+    }
+
+    .photo-grid {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        gap: 14px;
+    }
+
+    .place {
+        gap: 48px 32px;
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+    
+    .cover {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+
+    .lead {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .lead__caption {
+        margin-left: 24px;
+    }
+
+    .intro {
+        margin-top: 88px;
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-bottom: 88px;
+    }
+
+    .photo-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(6, 1fr);
+        gap: 16px;
+        margin-right: 24px;
+        margin-left: 24px;
+    }
+
+    .place {
+        gap: 48px 28px;
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-bottom: 73px;
+        margin-top: 0;
+    }
+
+    .place:last-child {
+        margin-bottom: 0;
+    }
+
+    .place:first-child {
+        margin-top: 88px;
+    }
+
+
+    .place__title {
+        font-size: 42px;
+        line-height: 110%;
+    }
+
+    .place__url-heading {
+        line-height: 12px;
+    }
+
+    .place__paragraph {
+        font-size: 16px;
+        line-height: 163%;
+        margin-bottom: 25px;
+    }
+
+    .place__image {
+        object-fit: contain;
+        object-position: top;
+    }
+    
+}
+
+@media screen and (max-width: 320px) {
+    .header {
+        margin: 16px;
+        margin-bottom: 0;
+    }
+
+    .header__logo {
+        width: 142px;
+        height: 42px;
+    }
+
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .lead__title {
+        font-size: 40px;
+        line-height: 44px;
+    }
+
+    .lead__subtitle {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 40px;
+    }
+
+    .lead__caption {
+        margin-left: 16px;
+    }
+    
+    .intro {
+        margin-top: 64px;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .intro__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+
+    .photo-grid {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(12, 1fr);
+        gap: 12px;
+        margin-right: 16px;
+        margin-left: 16px;
+    }
+
+    .place {
+        gap: 32px;
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-bottom: 50px;
+        margin-top: 0;
+        grid-template-columns: 1fr;
+    }
+
+    .place:last-child {
+        margin-bottom: 66px;
+    }
+
+    .place:first-child {
+        margin-top: 64px;
+    }
+
+    .place__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+
+    .cover {
+        margin: 0;
+        margin-top: 66px;
+        margin-bottom: 64px;
+    }
+
+    .cover__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+
+    .cover__subtitle {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        margin-left: 16px;
+        margin-right: 16px;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .footer__nav {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .footer__link {
+        font-size: 24px;
+        line-height: 24px;
+        margin-bottom: 32px;
+    }
+
+    .footer__link:last-child{
+        margin-bottom: 48px;
+    }
+
+    .footer__copyright {
+        line-height: 14px;
+    }
+}*/
