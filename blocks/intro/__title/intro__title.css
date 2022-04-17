@@ -6,6 +6,13 @@
     line-height: 58px;
 }
 
+@media screen and (max-width: 768px) {
+    .intro__title {
+        font-size: calc(100vw * 0.0703125);
+        line-height: calc(100vw * 0.0755208);
+    }
+}
+
 @media screen and (max-width: 425px) {
     .intro__title {
         font-size: 32px;
